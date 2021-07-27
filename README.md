@@ -3,10 +3,10 @@
 ### Tecnologias usadas no projeto
 
 Linguagem:
-Java
-Programação Orientada ao Objeto - POO
-Spring
-Mysql
+- Java
+- Programação Orientada ao Objeto - POO
+- Spring
+- Mysql
 
 ### Instalação do projeto
 
