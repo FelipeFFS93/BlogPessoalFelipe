@@ -2,6 +2,8 @@ package org.generation.BlogPessoal.model;
 
 public class UserLogin {
 
+	private long id;
+
 	private String nome;
 	
 	private String usuario;
@@ -10,8 +12,17 @@ public class UserLogin {
 	
 	private String token;
 
+
+	public long getId() {
+		return this.id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
 	public String getNome() {
-		return nome;
+		return this.nome;
 	}
 
 	public void setNome(String nome) {
@@ -19,7 +30,7 @@ public class UserLogin {
 	}
 
 	public String getUsuario() {
-		return usuario;
+		return this.usuario;
 	}
 
 	public void setUsuario(String usuario) {
@@ -27,7 +38,7 @@ public class UserLogin {
 	}
 
 	public String getSenha() {
-		return senha;
+		return this.senha;
 	}
 
 	public void setSenha(String senha) {
@@ -35,7 +46,7 @@ public class UserLogin {
 	}
 
 	public String getToken() {
-		return token;
+		return this.token;
 	}
 
 	public void setToken(String token) {
