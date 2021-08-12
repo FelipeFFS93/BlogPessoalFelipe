@@ -3,6 +3,8 @@
 ### Deploy e Documentação do projeto
 
 - https://blopessoalfelipe.herokuapp.com/swagger-ui/#/
+- Login: root
+- Senha: root
 
 ### Tecnologias usadas no projeto
 
